@@ -1,0 +1,15 @@
+D:\Projects\dotnet\learn\operators_expressions\bin\Debug\net7.0\operators_expressions.exe
+D:\Projects\dotnet\learn\operators_expressions\bin\Debug\net7.0\operators_expressions.deps.json
+D:\Projects\dotnet\learn\operators_expressions\bin\Debug\net7.0\operators_expressions.runtimeconfig.json
+D:\Projects\dotnet\learn\operators_expressions\bin\Debug\net7.0\operators_expressions.dll
+D:\Projects\dotnet\learn\operators_expressions\bin\Debug\net7.0\operators_expressions.pdb
+D:\Projects\dotnet\learn\operators_expressions\obj\Debug\net7.0\operators_expressions.csproj.AssemblyReference.cache
+D:\Projects\dotnet\learn\operators_expressions\obj\Debug\net7.0\operators_expressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\dotnet\learn\operators_expressions\obj\Debug\net7.0\operators_expressions.AssemblyInfoInputs.cache
+D:\Projects\dotnet\learn\operators_expressions\obj\Debug\net7.0\operators_expressions.AssemblyInfo.cs
+D:\Projects\dotnet\learn\operators_expressions\obj\Debug\net7.0\operators_expressions.csproj.CoreCompileInputs.cache
+D:\Projects\dotnet\learn\operators_expressions\obj\Debug\net7.0\operators_expressions.dll
+D:\Projects\dotnet\learn\operators_expressions\obj\Debug\net7.0\refint\operators_expressions.dll
+D:\Projects\dotnet\learn\operators_expressions\obj\Debug\net7.0\operators_expressions.pdb
+D:\Projects\dotnet\learn\operators_expressions\obj\Debug\net7.0\operators_expressions.genruntimeconfig.cache
+D:\Projects\dotnet\learn\operators_expressions\obj\Debug\net7.0\ref\operators_expressions.dll
