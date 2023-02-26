@@ -37,28 +37,51 @@ Console.WriteLine(b);
 Unary (++(increment), --(decrement), +(plus), -(minus))
 Binary (*(multiplication), /(division), %(remainder), +(addition), -(subtractions))
 */
-int a = 2;
-int b = 4;
-int c = 3;
-int d = 5;
+int a = 13;
+int b = 5;
+//int c = 3;
+//int d = 5;
+//int e = 7;
+//int f = 9;
 
 //Unary
+/*
 Console.WriteLine($"This is referencing a:");
 Console.WriteLine(a); // output: 2
-Console.WriteLine($"This is a++ for increment {a++}"); // output: 2
+Console.WriteLine($"This is a++ for increment: {a++}"); // output: 2
 Console.WriteLine(a); // output: 3
-Console.WriteLine($"This is ++a for increment {++a}"); // output: 4
+Console.WriteLine($"This is ++a for increment: {++a}"); // output: 4
 
 Console.WriteLine(" ");
 Console.WriteLine($"This is referencing b:");
 Console.WriteLine(b); // output: 4
-Console.WriteLine(b--); // output: 4
+Console.WriteLine($"This is b-- decrement: {b--}"); // output: 4
 Console.WriteLine(b); // output: 3
+Console.WriteLine($"This is --b decrement: {--b}"); // output: 2
 
 Console.WriteLine(" ");
 int plus_c = (c + 5); // output 8
-Console.WriteLine($"c({c} + 5 = {plus_c}");
+Console.WriteLine($"c({c}) + 5 = {plus_c}");
 
 Console.WriteLine(" ");
 int minus_d = (d - 2); // output 3
 Console.WriteLine($"d({d}) - 2 = {minus_d}");
+*/
+//Unary multiplication
+/*
+Console.WriteLine(5 * 2);           // output: 10
+Console.WriteLine(0.5 * 2.5);       // output 1.25
+Console.WriteLine(0.1m * 23.4m);    //output 2.34
+*/
+
+//Unary integer division
+/*
+Console.WriteLine(13 / 5);          // output: 2
+Console.WriteLine(-13 / 5);         // output: -2
+Console.WriteLine(13 / -5);         // output: -2
+Console.WriteLine(-13 / -5);        // output: 2
+*/
+// to obtain the decimal, use double, float, or decimal on at least one of the variables
+Console.WriteLine(13 / 5.0);        // output: 2.6
+
+Console.WriteLine((decimal)a/b);     // output: 2.6
